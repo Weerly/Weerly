@@ -124,7 +124,7 @@ I'm Software Engineer with shifting to Web (Full Stack)
                 <br>Redux
             </td>
             <td align="center" width="88">
-                <img src="images/Solidjs.svg" width="44" height="44" alt="Sass" />
+                <img src="images/solidjs.svg" width="44" height="44" alt="SolidJS" />
                 <br>SolidJS
             </td>
             <td align="center" width="88">
