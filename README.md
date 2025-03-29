@@ -124,7 +124,7 @@ I'm Software Engineer with shifting to Web (Full Stack)
                 <br>Redux
             </td>
             <td align="center" width="88">
-                <img src="images/Solidjs.svg" width="44" height="44" alt="Sass" />
+                <img src="images/solidjs.svg" width="44" height="44" alt="SolidJS" />
                 <br>SolidJS
             </td>
             <td align="center" width="88">
@@ -361,5 +361,5 @@ I'm Software Engineer with shifting to Web (Full Stack)
 <br>
 
 <div align="center">
-<a href="patreon.com/user?u=49080362" target="_blank"><img src="images/patreon_button.png" alt="support me on Patreon" style="height: 50px !important;width: 180px !important;" ></a>
+<a href="https://patreon.com/user?u=49080362" target="_blank"><img src="images/patreon_button.png" alt="support me on Patreon" style="height: 50px !important;width: 180px !important;" ></a>
 </div>
