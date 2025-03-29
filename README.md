@@ -280,8 +280,8 @@ I'm Software Engineer with shifting to Web (Full Stack)
                 <br>WebPack
             </td>
             <td align="center" width="88">
-                <img src="./images/mssql.svg" alt="" width="44" height="44"/>
-                <br>MSSQL
+                <img src="./images/vagrantup-icon.svg" alt="Vagrant" width="44" height="44"/>
+                <br>Vagrant
             </td>
             <td align="center" width="88">
                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="44" height="44" alt="NextJs" />
@@ -331,8 +331,8 @@ I'm Software Engineer with shifting to Web (Full Stack)
                 <br>Chrome Extensions
             </td>
             <td>
-                <img src="./images/vagrantup-icon.svg" width="44" height="44" alt="Vagrant" />
-                <br>Vagrant
+                <img src="./images/sql.svg" width="44" height="44" alt="SQL" />
+                <br>SQL
             </td>
         </tr>
     </table>
